@@ -9020,7 +9020,7 @@ msgstr "Przypuszczam, że gdy jedno z partnerów jest człowiekiem, połowa @MON
 #: /Game/Dialogue/Monarch/Default/MonarchTaskFulfilled.Default__MonarchTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",A7E400D84D8F2911F46A3BA5FBA020A8"
 msgid "My nectar collection has grown considerably, and the wild ones around here can't keep up."
-msgstr ""
+msgstr "Moje zbiory nektaru znacznie przyśpieszyły, tak, że nawet dzikie w okolicy nie są w stanie nadążyć."
 
 #. Key:	A7F13B9A43B11BD74FA2CB95A0F30AC2
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFemale(1).LinesToFemale

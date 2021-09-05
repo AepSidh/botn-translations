@@ -14277,119 +14277,119 @@ msgstr "Miodna Pszczółka Autumn"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:682
 msgctxt "ASexyWorldSystem,FessiTitanTask"
 msgid "Sexy human, my goddess hindquarters have rendered me sssstuck. Breed me a strong Titan capable of freeing me from my cave. Hiss!"
-msgstr ""
+msgstr "Ponętny człowieku, mój boski zadek spowodował, że uttttknęłam. Wyhoduj mi silnego Tytana zdolnego uwolnić mnie z mojej jaskini. Sssk!"
 
 #. Key:	FesssiTitan
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:679
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:679
 msgctxt "ASexyWorldSystem,FesssiTitan"
 msgid "Fat Ass Fesssi's Titan"
-msgstr ""
+msgstr "Tytan wielko dupnej Fesssi"
 
 #. Key:	FesssiTitanTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:680
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:680
 msgctxt "ASexyWorldSystem,FesssiTitanTaskReward"
 msgid "Fesssi wishes to speak with you."
-msgstr ""
+msgstr "Fesssi chce z tobą porozmawiać."
 
 #. Key:	KybeleMateTaskF
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
 msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her body."
-msgstr ""
+msgstr "Przyprowadź do mnie Vulwarga z dużą miekką pupcią! Chcę czuć jej amortyzacje gdy będę ją pchać i zapładniać moim kutasem."
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:504
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:504
 msgctxt "ASexyWorldSystem,KybeleMateTaskReward"
 msgid "Kybele wishes to speak with you."
-msgstr ""
+msgstr "Kybele chce z tobą porozmawiać."
 
 #. Key:	KybeleMateTaskT
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 msgctxt "ASexyWorldSystem,KybeleMateTaskT"
 msgid "Bring to me a Vulwarg with massive muscles! I wish feel like I'm being mounted by a mighty stallion."
-msgstr ""
+msgstr "Przyprowadź do mnie Vulwarga z wielkimi mięśniami! Chcę się czuć jakbym była dosiadana przez potężnego ogiera."
 
 #. Key:	KybeleMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:503
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:503
 msgctxt "ASexyWorldSystem,KybeleMateTitle"
 msgid "Kybele's Mighty Mate"
-msgstr ""
+msgstr "Potężny towarzysz Kybele."
 
 #. Key:	MilkFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:424
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:424
 msgctxt "ASexyWorldSystem,MilkFluid"
 msgid "Milk"
-msgstr ""
+msgstr "Mleko"
 
 #. Key:	MonarchMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:587
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:587
 msgctxt "ASexyWorldSystem,MonarchMateTask"
 msgid "Uh... please b-b-breed me an adorable Foxen that is fast enough to collect nectar for me. Thank you!"
-msgstr ""
+msgstr "Oh... wyhoduj mie p-p-proszę uroczego Foxena, który jest wystarczająco szybki aby zbierać dla mnie nektar. Dziękuje!"
 
 #. Key:	MonarchMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:585
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:585
 msgctxt "ASexyWorldSystem,MonarchMateTaskReward"
 msgid "Monarch wishes to speak with you."
-msgstr ""
+msgstr "Monarch chce z tobą porozmawiać."
 
 #. Key:	MonarchMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:584
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:584
 msgctxt "ASexyWorldSystem,MonarchMateTitle"
 msgid "Monarch's Swift Helper"
-msgstr ""
+msgstr "Szybki Pomocnik Monarch"
 
 #. Key:	NotEnoughMilk
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:796
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:796
 msgctxt "ASexyWorldSystem,NotEnoughMilk"
 msgid "More milk is required."
-msgstr ""
+msgstr "Potrzeba więcej mleka."
 
 #. Key:	NotEnoughSemen
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:804
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:804
 msgctxt "ASexyWorldSystem,NotEnoughSemen"
 msgid "More semen is required."
-msgstr ""
+msgstr "Potrzeba więcej spermy."
 
 #. Key:	OrcMate
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:730
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:730
 msgctxt "ASexyWorldSystem,OrcMate"
 msgid "Toy for the Tribe"
-msgstr ""
+msgstr "Zabawka dla Plemienia"
 
 #. Key:	OrcMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:733
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:733
 msgctxt "ASexyWorldSystem,OrcMateTask"
 msgid "Grrr! Breed us a fertile female! We want strong offspring."
-msgstr ""
+msgstr "Grrr! Wyhoduj nam płodną samice! Chcemy silnego potomstwa."
 
 #. Key:	OrcMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:731
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:731
 msgctxt "ASexyWorldSystem,OrcMateTaskReward"
 msgid "Chieftain Xena wishes to speak with you."
-msgstr ""
+msgstr "Wódz Xena chce z tobą porozmawiać."
 
 #. Key:	PetraMate
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:753
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:753
 msgctxt "ASexyWorldSystem,PetraMate"
 msgid "Practice Dragon"
-msgstr ""
+msgstr "Smok Treningowy"
 
 #. Key:	PetraMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:756
